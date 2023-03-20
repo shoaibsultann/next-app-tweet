@@ -59,8 +59,6 @@ export default function Tweet() {
           <FiBarChart2 className="mr-2"/>
           
         </div>
-
-
       </div>
       </div>
     </div>
